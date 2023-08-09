@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mamazur
-- 👀 I’m interested in computer science, art languages and feminism
+- 👀 I’m interested in computer science, art, languages and feminism
 - 🌱 I’m currently learning Elixir
 
 <!---
